@@ -31,7 +31,7 @@ html {
 }
 @media screen and (max-width: 370px) {
   html {
-    font-size: 50%;
+    font-size: 52%;
   }
 }
 
@@ -366,9 +366,9 @@ html {
   }
 }
 .lead {
-  font-size: 1.6rem !important;
+  font-size: 1.8rem !important;
   font-weight: 300 !important;
-  line-height: 1.3 !important;
+  line-height: 1.5 !important;
 }
 .span-heading {
   font-weight: 500;
