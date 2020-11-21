@@ -13,7 +13,7 @@ body {
   background-color: var(--color-secondary);
 }
 html {
-  font-size: 62.5% !important;
+  font-size: 62.5%;
   color: var(--color-grey-dark-3) !important;
   font-family: "Roboto", sans-serif !important;
   background-color: var(--color-secondary);
@@ -29,11 +29,12 @@ html {
     font-size: 54%;
   }
 }
-@media screen and (max-width: 376px) {
+@media screen and (max-width: 370px) {
   html {
     font-size: 50%;
   }
 }
+
 *,
 *::before,
 *::after {
@@ -306,7 +307,7 @@ html {
   height: 35rem;
   margin-top: 2.2rem;
 }
-@media screen and (max-width: 576px) {
+@media screen and (max-width: 322px) {
   .header__hero--image {
     max-width: 30rem;
     max-height: 30rem;
